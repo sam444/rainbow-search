@@ -1,0 +1,19 @@
+{
+  "name": "rainbowui-search",
+  "version": "2.0.6",
+  "description": "RainbowUI Search",
+  "main": "./src/index.js",
+  "keywords": [],
+  "author": "RainbowUI Team",
+  "publishConfig": {
+    "registry": "http://repo.ebaotech.com/artifactory/api/npm/npm-all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://oss.ebaotech.com/rainbow-ui/core.git"
+  },
+  "dependencies": {
+    "rainbow-foundation-tools": "^2.0.0",
+    "rainbowui-core": "^2.0.0"
+  }
+}
